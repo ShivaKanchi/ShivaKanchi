@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivaKanchi
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail : shivakanchi111@gmail.com
 
