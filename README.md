@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiva Kanchi
-- 👀 I’m interested in Android App Development
+- 👀 I’m interested in developing apps
 - 🌱 I’m currently building Full Stack Web Development projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail : shivakanchi111@gmail.com
