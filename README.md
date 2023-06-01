@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shiva Kanchi
+- 👋 Hi, I’m [Shiva Kanchi](https://shivakanchi.netlify.app/)
 - 👀 I’m interested in developing apps
 - 🌱 I’m currently building Full Stack Web Development projects
 - 💞️ I’m looking to collaborate on ...
