@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Shiva Kanchi](https://shivakanchi.netlify.app/)
-- 👀 I’m interested in developing apps
+- 👀 I’m interested in developing interesting apps
 - 🌱 I’m currently building Full Stack Web Development projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail : shivakanchi111@gmail.com
