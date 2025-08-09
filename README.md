@@ -1,11 +1,11 @@
-- 👋 Hi, I’m [Shiva Kanchi](https://shivakanchi.netlify.app/)
-- 👀 I’m interested in developing interesting apps
-- 🌱 I’m currently building Full Stack Web Development projects
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Gmail : shivakanchi111@gmail.com
+- 👋 Hi, I’m [Shiva](https://shivakanchi.vercel.app/)
+- 👀 I’m interested in developing innovative applications that help people work more efficiently.
+- 🌱 I’m currently building FullStack Web Development projects
+- 💞️ I’m looking to collaborate on creative ideas
+- 📫 How to reach me? on LinkedIn: [Shiva Kanchi](https://www.linkedin.com/in/shiva-kanchi)
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kanchi-17888019b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kanchi) 
 
 # 💻 Tech Stack:
 
