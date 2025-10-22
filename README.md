@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Shiva](https://shivakanchi.vercel.app/)
-- 👀 I’m interested in developing innovative applications that help people work more efficiently.
+- 👀 I’m interested in developing innovative applications that help people live more efficiently.
 - 🌱 I’m currently building FullStack Web Development projects
 - 💞️ I’m like creating creative things with programming
 - 📫 How to reach me? on LinkedIn: [Shiva Kanchi](https://www.linkedin.com/in/shiva-kanchi)
