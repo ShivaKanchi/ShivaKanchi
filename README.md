@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Shiva](https://shivakanchi.vercel.app/)
+- 👋 Hello, [Shiva Kanchi](https://shivakanchi.vercel.app/) here!
 - 👀 I’m interested in developing innovative applications that help people live more efficiently.
 - 🌱 I’m currently building FullStack Web Development projects
 - 💞️ I’m like creating creative things with programming
